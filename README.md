@@ -1,4 +1,4 @@
-# FEA with LML
+# 2D Beam Solver
 
 This program is designed to analyse beams by calculating their displacements under specified boundary conditions and loads. The main functionalities include defining the beam properties, setting boundary conditions (fixpoints and loads), calculating displacements, and displaying the results. This project acts as a demonstration and showcase of my [Lightweight Matrix Library](https://github.com/jamesbray03/Lightweight-Matrix-Library)
 
